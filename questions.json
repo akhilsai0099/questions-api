@@ -2,39 +2,22 @@
     "Questions" : [
         {
             "id" : 0,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
+            "Title": "Which of the following is TRUE?",
+            "Options" : {"A": "Every relation in 3NF is also in BCNF",
+                        "B": "A relation R is in 3NF if every non-prime attribute of R is fully functionally dependent on every key of R", 
+                        "C":"Every relation in BCNF is also in 3NF" , 
+                        "D":"No relation can be in both BCNF and 3NF" },
             "Correct Options" : "A"
         },
         {
             "id" : 1,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
-            "Correct Options" : "A"
-        },
-        {
-            "id" : 2,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
-            "Correct Options" : "A"
-        },
-        {
-            "id" : 3,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
-            "Correct Options" : "A"
-        },
-        {
-            "id" : 4,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
-            "Correct Options" : "A"
-        },
-        {
-            "id" : 5,
-            "Title": "Akhil",
-            "Options" : {"A": "sai","B": "sai", "C":"sai" , "D":"sai" },
+            "Title": "Assuming P not equal to NP, which of the following is TRUE?",
+            "Options" : {"A": "NP-complete = NP",
+                        "B": "NP-hard = NP ", 
+                        "C":"NP-complete ∩ P = null set" , 
+                        "D":"P = NP-complete" },
             "Correct Options" : "A"
         }
+        
     ]
 }
